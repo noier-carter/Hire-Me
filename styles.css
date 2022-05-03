@@ -1,0 +1,50 @@
+html {
+    background-color: #666666;
+}
+
+html {
+    font-family: sans-serif;
+    font-size: 20px;
+    text-align: center;
+    color: white;
+}
+
+.dog {
+    width: 550px;
+}
+
+p {
+    background-color: #404040;
+    border: 2px solid #b3d1ff;
+    padding: 20px;
+    font-family: Roboto Mono;
+}
+
+html {
+    border: 10px dotted #b3d1ff;
+}
+
+li {
+    text-align: center;
+    color: #b3d1ff;
+    font-family: Roboto Mono;
+}
+
+h3 {
+    text-align: center;
+    margin: 20px;
+}
+
+.wow {
+    color: #333333;
+    font-family: Playfair Display;
+}
+
+.colors {
+    color: #b3d1ff;
+}
+
+h1 {
+    color: #ccb3ff;
+    font-family: Roboto Mono;
+}
